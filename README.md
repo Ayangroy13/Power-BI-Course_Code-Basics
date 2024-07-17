@@ -25,7 +25,7 @@ I’m a Mechanical Engineer who transitioned to a full-time Data & Analytics Man
 5. Advanced Power BI Tricks
 6. Business Function Fundamentals (Finance, Sales, Marketing & Supply chain)
 7. Consumer goods business domain knowledge
-8. Problem solving mindset
+8. Problem-solving mindset
 
 ### Course Work
 ### Day 1:
